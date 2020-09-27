@@ -48,3 +48,13 @@ Day 6 - Let's Review
 Task - Given a string, S, of length N that is indexed from 0 to N-1 , print its even-indexed and odd-indexed characters as 2  space-separated strings on a single line (see the Sample below for more detail).
 
 Note:  is considered to be an even index.
+
+
+Day 7 - Arrays
+
+
+Task
+Given an array, , of  integers, print 's elements in reverse order as a single line of space-separated numbers.
+
+
+
